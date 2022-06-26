@@ -1,3 +1,7 @@
+# Astro + tailwind + Sanity + netlify
+
+I am going to create a templete for blog website.
+
 # Astro Sanity Minimal Starter
 
 ## [Demo Site](https://astro-sanity-minimal-starter.netlify.app/)
